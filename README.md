@@ -4,7 +4,7 @@ This repository contains my solutions to various LeetCode problems, along with t
 ## Problems Included
 
 - Two Sum
-- Reverse Integer
+- Contains Duplicate
 - ...
 
 ## Info
